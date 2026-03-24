@@ -16,7 +16,7 @@ Currently the library generates audio ~3.3 times faster than real-time on the re
 
 - iOS 18.0+
 - macOS 15.0+
-- (Other Apple platforms may work as well)
+- visionOS 2.0+
 
 ## Installation
 
